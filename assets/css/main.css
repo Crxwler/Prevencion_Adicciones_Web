@@ -558,7 +558,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Arial';
 			font-weight: 900;
 		}
 
@@ -655,7 +655,7 @@ input, select, textarea {
 		}
 
 		.container.xlarge {
-			width: 105em;
+			width: 100em;
 		}
 
 		.container.max {
@@ -3201,7 +3201,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: #e44c65;
+			background: #a34ee4;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3532,7 +3532,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #272833;
+		background: #4952b6;
 		padding: 6em 0;
 		text-align: center;
 	}
